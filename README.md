@@ -1,4 +1,5 @@
 In this capstone project, I conducted a comprehensive network security assessment, gaining hands-on experience with various reconnaissance and scanning techniques.
+
 Key Learning and Activities:
 
   1. Reconnaissance Techniques: Studied passive and active reconnaissance methods to gather information on network infrastructure and potential vulnerabilities.
