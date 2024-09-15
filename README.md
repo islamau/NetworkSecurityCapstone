@@ -1,10 +1,14 @@
-In this capstone project, I conducted a comprehensive network security assessment, gaining hands-on experience with various reconnaissance and scanning techniques.
+In this project, I completed the Network Security Capstone challenge on TryHackMe, which involved comprehensive learning and hands-on practice in network security.
 
-Key Learning and Activities:
+Key Activities:
 
-  1. Reconnaissance Techniques: Studied passive and active reconnaissance methods to gather information on network infrastructure and potential vulnerabilities.
-  2. Protocol Understanding: Acquired knowledge of common network protocols, their operation, attack vectors, and mitigation techniques.
-  3. Nmap Usage: Utilized Nmap extensively for tasks including live host discovery, advanced port scanning, OS and service version detection, and executing Nmap scripts. Saved and analyzed scan results to identify network weaknesses.
-  4. Tool Application: Applied Nmap, Telnet, and Hydra tools during the challenge to perform detailed security assessments and exploit vulnerabilities.
+  1. Reconnaissance and Protocols: Gained in-depth knowledge of passive and active reconnaissance techniques. Studied common network protocols, their attack vectors, and mitigation strategies.
+  2. Nmap Utilization: Conducted detailed network scans using Nmap, including live host discovery, advanced port scanning, OS and service version detection, and running custom Nmap scripts. Saved and analyzed scan results to identify potential vulnerabilities.
+  3. Tool Application: Utilized Nmap, Telnet, and Hydra tools during the capstone challenge to execute various network security tasks and perform penetration testing.
 
-This project enhanced my understanding of network security, including the functionality of various protocols and the effectiveness of different scanning and exploitation tools.
+Learning Outcomes:
+
+    Attack and Defense: Developed an understanding of the inner workings and potential attacks against common network protocols, as well as effective mitigation techniques.
+    Practical Skills: Applied theoretical knowledge in a practical setting, enhancing skills in network scanning, vulnerability assessment, and penetration testing.
+
+This project allowed me to integrate and apply network security concepts and tools in a real-world scenario, strengthening my expertise in network security.
